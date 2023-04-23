@@ -1,4 +1,4 @@
-# usconst-pyjson-lib
+#  usconstitution-structured
 ## The Constitution of the United States 
 - Python dict
 - JSON file
