@@ -3,7 +3,7 @@
 - Python dict
 - JSON file
 - Includes metadata:
-- - articles, sections, dates, notes) and additional modules for various tasks.
+-- articles, sections, dates, notes) and additional modules for various tasks.
 
 ## Text Sources:
 - [Constitution](https://www.archives.gov/founding-docs/constitution-transcript)
